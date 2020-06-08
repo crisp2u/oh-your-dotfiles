@@ -1,1 +1,16 @@
 homebrew/cask-versions
+adoptopenjdk/openjdk
+bazelbuild/tap
+cloudflare/cloudflare
+drone/drone
+getsentry/tools
+golangci/tap
+heroku/brew
+homebrew/bundle
+homebrew/cask
+homebrew/cask-versions
+homebrew/core
+homebrew/services
+mapbox/cli
+sectorlabs/maple
+wix/brew
